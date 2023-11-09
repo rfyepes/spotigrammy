@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spotigrammy/static/css/main.f3fb1a24.css",
+    "main.js": "/spotigrammy/static/js/main.a4d3f51c.js",
+    "static/media/example.jpg": "/spotigrammy/static/media/example.a78da43e78ed367e12a0.jpg",
+    "static/media/grammy.png": "/spotigrammy/static/media/grammy.0c8af2c7e1b891f27357.png",
+    "static/media/spotify.png": "/spotigrammy/static/media/spotify.7690c7aa0a6dab62b5b6.png",
+    "index.html": "/spotigrammy/index.html",
+    "main.f3fb1a24.css.map": "/spotigrammy/static/css/main.f3fb1a24.css.map",
+    "main.a4d3f51c.js.map": "/spotigrammy/static/js/main.a4d3f51c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fb1a24.css",
+    "static/js/main.a4d3f51c.js"
+  ]
+}
