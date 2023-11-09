@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spotigrammy/static/css/main.f3fb1a24.css",
-    "main.js": "/spotigrammy/static/js/main.a41da475.js",
+    "main.js": "/spotigrammy/static/js/main.0991e6cb.js",
     "static/media/example.jpg": "/spotigrammy/static/media/example.a78da43e78ed367e12a0.jpg",
     "static/media/grammy.png": "/spotigrammy/static/media/grammy.0c8af2c7e1b891f27357.png",
     "static/media/spotify.png": "/spotigrammy/static/media/spotify.7690c7aa0a6dab62b5b6.png",
     "index.html": "/spotigrammy/index.html",
     "main.f3fb1a24.css.map": "/spotigrammy/static/css/main.f3fb1a24.css.map",
-    "main.a41da475.js.map": "/spotigrammy/static/js/main.a41da475.js.map"
+    "main.0991e6cb.js.map": "/spotigrammy/static/js/main.0991e6cb.js.map"
   },
   "entrypoints": [
     "static/css/main.f3fb1a24.css",
-    "static/js/main.a41da475.js"
+    "static/js/main.0991e6cb.js"
   ]
 }
